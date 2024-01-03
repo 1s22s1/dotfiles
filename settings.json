@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "julia.enableTelemetry": true,
+    "workbench.colorTheme": "Cute",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
+    "julia.enableCrashReporter": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true
+}
