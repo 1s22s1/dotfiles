@@ -11,5 +11,6 @@
     "julia.enableCrashReporter": true,
     "explorer.confirmDragAndDrop": false,
     "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false
 }
