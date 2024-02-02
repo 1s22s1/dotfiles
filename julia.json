@@ -1,0 +1,14 @@
+{
+	"AtCoder template": {
+		"prefix": "atcoder",
+		"body": [
+			"function main()",
+			"	n = readline() |> x -> parse(Int, x)",
+			"	n, k = readline() |> split |> x -> parse.(Int, x)",
+			"end",
+			"",
+			"main()"
+		],
+		"description": "Template of AtCoder"
+	}
+}
