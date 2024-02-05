@@ -12,7 +12,9 @@
     "explorer.confirmDragAndDrop": false,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
     "git.autofetch": true,
-    "editor.fontFamily": "'Cica'"
+    "editor.fontFamily": "Monaspace Neon",
+    "editor.fontLigatures": true,
+    "git.confirmSync": false,
+    "update.showReleaseNotes": false
 }
