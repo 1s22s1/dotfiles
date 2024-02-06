@@ -2,9 +2,16 @@
 	"AtCoder template": {
 		"prefix": "atcoder",
 		"body": [
+			"function parseInt()",
+			"	return readline() |> x -> parse(Int, x)",
+			"end",
+			"",
+			"function parseMapInt()",
+			"	return readline() |> split |> x -> parse.(Int, x)",
+			"end",
+			"",
 			"function main()",
-			"	n = readline() |> x -> parse(Int, x)",
-			"	n, k = readline() |> split |> x -> parse.(Int, x)",
+			"	$1",
 			"end",
 			"",
 			"main()"
