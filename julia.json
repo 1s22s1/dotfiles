@@ -11,7 +11,7 @@
 			"end",
 			"",
 			"function main()",
-			"	$1",
+			"$1",
 			"end",
 			"",
 			"main()"
