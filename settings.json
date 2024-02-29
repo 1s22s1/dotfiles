@@ -16,5 +16,6 @@
     "editor.fontFamily": "Monaspace Neon",
     "editor.fontLigatures": true,
     "git.confirmSync": false,
-    "update.showReleaseNotes": false
+    "update.showReleaseNotes": false,
+    "security.workspace.trust.untrustedFiles": "newWindow"
 }
