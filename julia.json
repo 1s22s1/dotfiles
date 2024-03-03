@@ -18,11 +18,11 @@
 			"	return readline() |> split",
 			"end",
 			"",
-			"function main()",
+			"function solve()",
 			"    aobayama$1",
 			"end",
 			"",
-			"main()"
+			"solve()"
 		],
 		"description": "Template of AtCoder"
 	}
