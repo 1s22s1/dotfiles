@@ -4,7 +4,7 @@
     ],
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": true,
-    "workbench.colorTheme": "Ooh! A Flower!",
+    "workbench.colorTheme": "Cute",
     "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
     "files.insertFinalNewline": true,
@@ -17,5 +17,6 @@
     "editor.fontLigatures": true,
     "git.confirmSync": false,
     "update.showReleaseNotes": false,
-    "security.workspace.trust.untrustedFiles": "newWindow"
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "git.openRepositoryInParentFolders": "always"
 }
