@@ -4,7 +4,6 @@
     ],
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": true,
-    "workbench.colorTheme": "Noctis Hibernus",
     "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
     "files.insertFinalNewline": true,
@@ -18,5 +17,6 @@
     "git.confirmSync": false,
     "update.showReleaseNotes": false,
     "security.workspace.trust.untrustedFiles": "newWindow",
-    "git.openRepositoryInParentFolders": "always"
+    "git.openRepositoryInParentFolders": "always",
+    "workbench.colorTheme": "Noctis Lux"
 }
