@@ -16,7 +16,7 @@
         "diffEditor.ignoreTrimWhitespace": true
     },
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "workbench.colorTheme": "Winter is Coming (Light - No Italics)",
+    "workbench.colorTheme": "Ayu Light",
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
