@@ -16,7 +16,7 @@
         "diffEditor.ignoreTrimWhitespace": true
     },
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "workbench.colorTheme": "Ayu Light",
+    "workbench.colorTheme": "Foodie - Cake",
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
