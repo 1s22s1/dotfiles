@@ -10,11 +10,11 @@
 			"",
 			"parsestrings() = readline() |> split",
 			"",
-			"function solve()",
+			"function outcome()",
 			"    gomora$1",
 			"end",
 			"",
-			"solve()"
+			"outcome()"
 		],
 		"description": "Template of AtCoder"
 	}
