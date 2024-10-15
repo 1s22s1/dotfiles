@@ -6,7 +6,7 @@
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "git.autofetch": true,
-    "editor.fontFamily": "Monaspace Neon",
+    "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "git.confirmSync": false,
     "update.showReleaseNotes": false,
@@ -16,7 +16,7 @@
         "diffEditor.ignoreTrimWhitespace": true
     },
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "workbench.colorTheme": "Noctis Hibernus",
+    "workbench.colorTheme": "Ooh! A Flower!",
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
