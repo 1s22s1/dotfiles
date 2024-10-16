@@ -2,19 +2,16 @@
 	"AtCoder template": {
 		"prefix": "gomora",
 		"body": [
-			"parseint() = readline() |> x -> parse(Int, x)",
-			"",
-			"parsestring() = readline()",
-			"",
-			"parseints() = readline() |> split |> x -> parse.(Int, x)",
-			"",
-			"parsestrings() = readline() |> split",
-			"",
-			"function outcome()",
+			"function main()",
 			"    gomora$1",
 			"end",
 			"",
-			"outcome()"
+			"parseint() = readline() |> x -> parse(Int, x)",
+			"parsestring() = readline()",
+			"parseints() = readline() |> split |> x -> parse.(Int, x)",
+			"parsestrings() = readline() |> split",
+			"",
+			"main()"
 		],
 		"description": "Template of AtCoder"
 	}
