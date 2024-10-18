@@ -16,13 +16,13 @@
         "diffEditor.ignoreTrimWhitespace": true
     },
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "workbench.colorTheme": "1984 - Light",
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": true,
-    "terminal.integrated.enableMultiLinePasteWarning": "always",
     "explorer.confirmPasteNative": false,
-    "workbench.iconTheme": "vscode-celestial-magic-girl-icon-theme"
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.iconTheme": "vscode-celestial-magic-girl-icon-theme",
+    "workbench.colorTheme": "Horizon Bright Bold",
 }
