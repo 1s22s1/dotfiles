@@ -1,9 +1,9 @@
 {
 	"AtCoder template": {
-		"prefix": "gomora",
+		"prefix": "bomora",
 		"body": [
 			"function main()",
-			"    gomora$1",
+			"    bomora$1",
 			"end",
 			"",
 			"parseint() = readline() |> x -> parse(Int, x)",
