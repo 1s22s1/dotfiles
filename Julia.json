@@ -5,6 +5,8 @@
 			"function main()",
 			"$1    $2",
 			"",
+			"    result = 0",
+			"",
 			"    println(result)",
 			"end",
 			"",
@@ -16,5 +18,15 @@
 			"main()"
 		],
 		"description": "Template of AtCoder"
+	},
+	"Tally": {
+		"prefix": "tally",
+		"body": [
+			"dict = Dict()",
+			"for a ∈ an",
+			"    dict[a] = get(dict, a, 0) + 1",
+			"end",
+		],
+		"description": "The counts of equal elements"
 	}
 }
