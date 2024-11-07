@@ -28,5 +28,19 @@
 			"end",
 		],
 		"description": "The counts of equal elements"
+	},
+	"Graph": {
+		"prefix": "graph",
+		"body": [
+			"n, m = parseints()",
+			"g = [[] for _ ∈ 1:n]",
+			"",
+			"for _ ∈ 1:m",
+			"    a, b = parseints()",
+			"    push!(g[a], b)",
+			"    push!(g[b], a)",
+			"end"
+		],
+		"description": "The counts of equal elements"
 	}
 }
