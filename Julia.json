@@ -2,6 +2,8 @@
 	"AtCoder template": {
 		"prefix": "atcoder",
 		"body": [
+			"using Printf",
+			"",
 			"function main()",
 			"$1    $2",
 			"",
@@ -18,16 +20,6 @@
 			"main()"
 		],
 		"description": "Template of AtCoder"
-	},
-	"Tally": {
-		"prefix": "tally",
-		"body": [
-			"dict = Dict()",
-			"for a ∈ an",
-			"    dict[a] = get(dict, a, 0) + 1",
-			"end",
-		],
-		"description": "The counts of equal elements"
 	},
 	"Graph": {
 		"prefix": "graph",
