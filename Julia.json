@@ -3,6 +3,7 @@
 		"prefix": "atcoder",
 		"body": [
 			"using Printf",
+			"using IterTools",
 			"",
 			"function main()",
 			"$1    $2",
