@@ -26,7 +26,8 @@
 		"prefix": "graph",
 		"body": [
 			"n, m = parseints()",
-			"g = [[] for _ ∈ 1:n]",
+			"",
+			"g = [Int[] for _ ∈ 1:n]",
 			"",
 			"for _ ∈ 1:m",
 			"    a, b = parseints()",
