@@ -24,5 +24,5 @@
     "explorer.confirmPasteNative": false,
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "workbench.iconTheme": "sweet-vscode-icons",
-    "workbench.colorTheme": "Catppuccin Alt Mocha",
+    "workbench.colorTheme": "Chinolor Light",
 }
