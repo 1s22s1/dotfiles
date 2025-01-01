@@ -23,6 +23,6 @@
     "julia.enableTelemetry": true,
     "explorer.confirmPasteNative": false,
     "terminal.integrated.enableMultiLinePasteWarning": false,
-    "workbench.iconTheme": "sweet-vscode-icons",
-    "workbench.colorTheme": "Sodagreen Theme",
+    "workbench.iconTheme": "Monokai Pro Light (Filter Sun) Icons",
+    "workbench.colorTheme": "Monokai Pro Light (Filter Sun)",
 }
