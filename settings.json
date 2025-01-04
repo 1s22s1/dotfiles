@@ -1,28 +1,7 @@
 {
     "workbench.startupEditor": "none",
-    "editor.minimap.enabled": false,
-    "files.insertFinalNewline": true,
-    "explorer.confirmDragAndDrop": false,
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "git.autofetch": true,
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "git.confirmSync": false,
-    "update.showReleaseNotes": false,
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "git.openRepositoryInParentFolders": "always",
-    "[markdown]": {
-        "diffEditor.ignoreTrimWhitespace": true
-    },
-    "diffEditor.hideUnchangedRegions.enabled": true,
-    "terminal.integrated.commandsToSkipShell": [
-        "language-julia.interrupt"
-    ],
-    "julia.symbolCacheDownload": true,
-    "julia.enableTelemetry": true,
-    "explorer.confirmPasteNative": false,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "workbench.iconTheme": "Monokai Pro Light (Filter Sun) Icons",
-    "workbench.colorTheme": "Monokai Pro Light (Filter Sun)",
+    "workbench.colorTheme": "Modern Purple Theme Light",
+    "workbench.iconTheme": "chalice-icon-theme",
+    "cmake.showOptionsMovedNotification": false,
+    "editor.minimap.enabled": false
 }
