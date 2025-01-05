@@ -1,7 +1,10 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Modern Purple Theme Light",
-    "workbench.iconTheme": "chalice-icon-theme",
+    "workbench.colorTheme": "Kawaii Theme",
+    "workbench.iconTheme": "vikings-icon-theme",
     "cmake.showOptionsMovedNotification": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.autofetch": true
 }
