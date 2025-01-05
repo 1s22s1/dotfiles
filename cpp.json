@@ -1,0 +1,14 @@
+{
+	"Template of AtCoder": {
+		"prefix": "atcoder",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"$1",
+			"}"
+		],
+	}
+}
