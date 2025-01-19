@@ -1,6 +1,6 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Huacat Pink Dark",
+    "workbench.colorTheme": "Alma Dimmed Sakura",
     "workbench.iconTheme": "vikings-icon-theme",
     "cmake.showOptionsMovedNotification": false,
     "editor.minimap.enabled": false,
@@ -12,5 +12,7 @@
         "cpp": "cd $dir && g++ $fileName -o a.out && ./a.out",
     },
     "editor.formatOnSave": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "git.ignoreRebaseWarning": true,
+    "workbench.editor.enablePreview": false
 }
