@@ -1,11 +1,9 @@
 {
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Alma Dimmed Sakura",
-    "workbench.iconTheme": "vikings-icon-theme",
+    "workbench.colorTheme": "Subaru (Light)",
     "cmake.showOptionsMovedNotification": false,
     "editor.minimap.enabled": false,
     "explorer.confirmDragAndDrop": false,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
     "git.autofetch": true,
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
