@@ -12,6 +12,6 @@
     "git.confirmSync": false,
     "git.ignoreRebaseWarning": true,
     "workbench.editor.enablePreview": false,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "workbench.colorTheme": "Lotus Dark"
+    "update.showReleaseNotes": false,
+    "workbench.colorTheme": "Huacat Pink Dark"
 }
