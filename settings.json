@@ -13,5 +13,7 @@
     "git.ignoreRebaseWarning": true,
     "workbench.editor.enablePreview": false,
     "update.showReleaseNotes": false,
-    "workbench.colorTheme": "Huacat Pink Dark"
+    "workbench.colorTheme": "Huacat Pink Dark",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "files.insertFinalNewline": true
 }
