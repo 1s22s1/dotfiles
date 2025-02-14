@@ -15,5 +15,6 @@
     "update.showReleaseNotes": false,
     "workbench.colorTheme": "Huacat Pink Dark",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
