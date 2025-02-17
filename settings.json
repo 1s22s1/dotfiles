@@ -16,5 +16,7 @@
     "workbench.colorTheme": "Huacat Pink Dark",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "files.insertFinalNewline": true,
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 12
 }
