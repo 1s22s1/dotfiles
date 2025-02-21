@@ -6,7 +6,7 @@
     "git.autofetch": true,
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ $fileName -o a.out && ./a.out",
+        "cpp": "cd $dir && g++ $fileName -std=c++20 -o a.out && ./a.out",
     },
     "editor.formatOnSave": true,
     "git.confirmSync": false,
@@ -18,5 +18,7 @@
     "files.insertFinalNewline": true,
     "workbench.iconTheme": "material-icon-theme",
     "security.workspace.trust.untrustedFiles": "open",
-    "editor.fontSize": 12
+    "editor.fontSize": 12,
+    "git.enableSmartCommit": true,
+    "C_Cpp.default.cppStandard": "c++20"
 }
