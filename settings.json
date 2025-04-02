@@ -1,6 +1,5 @@
 {
     "workbench.startupEditor": "none",
-    "cmake.showOptionsMovedNotification": false,
     "editor.minimap.enabled": false,
     "explorer.confirmDragAndDrop": false,
     "git.autofetch": true,
@@ -19,5 +18,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "editor.fontSize": 12,
     "git.enableSmartCommit": true,
-    "C_Cpp.default.cppStandard": "c++20"
+    "C_Cpp.default.cppStandard": "c++20",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true
 }
