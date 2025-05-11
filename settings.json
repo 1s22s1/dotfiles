@@ -5,14 +5,14 @@
     "git.autofetch": true,
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ $fileName -std=c++20 -o a.out && ./a.out",
+        "cpp": "cd $dir && g++ $fileName -std=c++23 -o a.out && ./a.out",
     },
     "editor.formatOnSave": true,
     "git.confirmSync": false,
     "git.ignoreRebaseWarning": true,
     "workbench.editor.enablePreview": false,
     "update.showReleaseNotes": false,
-    "workbench.colorTheme": "Modern Purple Theme Dark",
+    "workbench.colorTheme": "Modern Purple Theme Light",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "files.insertFinalNewline": true,
     "security.workspace.trust.untrustedFiles": "open",
@@ -20,5 +20,12 @@
     "git.enableSmartCommit": true,
     "C_Cpp.default.cppStandard": "c++20",
     "files.trimTrailingWhitespace": true,
-    "files.trimFinalNewlines": true
+    "files.trimFinalNewlines": true,
+    "redhat.telemetry.enabled": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.symbolCacheDownload": true,
+    "julia.enableTelemetry": false,
+    "workbench.iconTheme": "city-lights-icons-vsc-light",
 }
