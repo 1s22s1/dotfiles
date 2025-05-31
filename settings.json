@@ -12,7 +12,7 @@
     "git.ignoreRebaseWarning": true,
     "workbench.editor.enablePreview": false,
     "update.showReleaseNotes": false,
-    "workbench.colorTheme": "Modern Purple Theme Dark",
+    "workbench.colorTheme": "Huacat Pink Dark",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "files.insertFinalNewline": true,
     "security.workspace.trust.untrustedFiles": "open",
@@ -27,5 +27,5 @@
     ],
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": false,
-    "workbench.iconTheme": "city-lights-icons-vsc-light",
+    "workbench.iconTheme": "helium-icon-theme",
 }
