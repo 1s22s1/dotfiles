@@ -12,7 +12,6 @@
     "git.ignoreRebaseWarning": true,
     "workbench.editor.enablePreview": false,
     "update.showReleaseNotes": false,
-    "workbench.colorTheme": "Huacat Pink Dark",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "files.insertFinalNewline": true,
     "security.workspace.trust.untrustedFiles": "open",
@@ -21,11 +20,11 @@
     "C_Cpp.default.cppStandard": "c++20",
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
-    "redhat.telemetry.enabled": false,
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": false,
     "workbench.iconTheme": "helium-icon-theme",
+    "workbench.colorTheme": "Tokyo Night Light",
 }
