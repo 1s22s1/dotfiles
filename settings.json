@@ -26,5 +26,6 @@
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": false,
     "workbench.iconTheme": "helium-icon-theme",
-    "workbench.colorTheme": "Falcon Light Yellow",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "remote.autoForwardPortsSource": "hybrid",
 }
