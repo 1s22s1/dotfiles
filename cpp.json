@@ -27,5 +27,17 @@
 			"    return 0;",
 			"}"
 		],
+	},
+	"count_if": {
+		"prefix": "count_if",
+		"body": [
+			"ll count = count_if(vec.begin(), vec.end(), [](int n) { return n == 1; });",
+		],
+	},
+	"all_of": {
+		"prefix": "all_of",
+		"body": [
+			"bool ok = all_of(vec.begin(), vec.end(), [](int n) { return n == 1; });",
+		],
 	}
 }
