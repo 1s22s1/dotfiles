@@ -37,7 +37,17 @@
 	"all_of": {
 		"prefix": "all_of",
 		"body": [
-			"bool ok = all_of(vec.begin(), vec.end(), [](int n) { return n == 1; });",
+			"if (all_of(vec.begin(), vec.end(), [](int n) { return n == 1; }))",
+			"{",
+			"}"
+		],
+	},
+	"any_of": {
+		"prefix": "any_of",
+		"body": [
+			"if (any_of(vec.begin(), vec.end(), [](int n) { return n == 1; }))",
+			"{",
+			"}"
 		],
 	}
 }
