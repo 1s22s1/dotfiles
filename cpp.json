@@ -56,5 +56,21 @@
 			"sort(vec.begin(), vec.end());",
 			"vec.erase(unique(vec.begin(), vec.end()), vec.end());"
 		],
-	}
+	},
+	"next_permutation": {
+		"prefix": "next_permutation",
+		"body": [
+			"do",
+			"{",
+			"} while (next_permutation(paths.begin(), paths.end()));"
+		],
+	},
+	"find": {
+		"prefix": "find",
+		"body": [
+			"if (find(vec.begin(), vec.end(), n) != vec.end())",
+			"{",
+			"}"
+		],
+	},
 }
