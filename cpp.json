@@ -58,6 +58,12 @@
 			"}"
 		],
 	},
+	"fixed": {
+		"prefix": "fixed",
+		"body": [
+			"cout << fixed << setprecision(10) << answer << endl;",
+		],
+	},
 	"next_permutation": {
 		"prefix": "next_permutation",
 		"body": [
