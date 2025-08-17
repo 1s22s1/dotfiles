@@ -47,7 +47,7 @@
 	"count_if": {
 		"prefix": "count_if",
 		"body": [
-			"ll count = count_if(g.at(i).begin(), g.at(i).end(), [i](int x) { return i > x; });",
+			"ll count = count_if(An.begin(), An.end(), [i](int x) { return i >= x; });",
 		],
 	},
 	"find": {
