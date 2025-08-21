@@ -79,4 +79,10 @@
 			"vec.erase(unique(vec.begin(), vec.end()), vec.end());"
 		],
 	},
+	"priority_queue": {
+		"prefix": "priority_queue",
+		"body": [
+			"priority_queue<int, vector<int>, greater<int>> pq;",
+		],
+	},
 }
