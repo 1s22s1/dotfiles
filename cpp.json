@@ -85,4 +85,11 @@
 			"priority_queue<int, vector<int>, greater<int>> pq;",
 		],
 	},
+	"distance": {
+		"prefix": "distance",
+		"body": [
+			"auto max_it = max_element(vec.begin(), vec.end());",
+			"auto index = distance(vec.begin(), max_it);"
+		],
+	},
 }
