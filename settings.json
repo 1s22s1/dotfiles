@@ -26,7 +26,8 @@
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": false,
     "workbench.iconTheme": "helium-icon-theme",
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
     "remote.autoForwardPortsSource": "hybrid",
     "typescript.updateImportsOnFileMove.enabled": "always",
+    "debug.onTaskErrors": "debugAnyway",
 }
