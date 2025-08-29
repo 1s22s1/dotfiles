@@ -5,7 +5,7 @@
     "git.autofetch": true,
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
-        "cpp": "cd $dir && g++ $fileName -std=c++23 -o a.out && ./a.out",
+        "cpp": "cd $dir && g++ $fileName -std=c++23 -I . -o a.out && ./a.out",
     },
     "editor.formatOnSave": true,
     "git.confirmSync": false,
@@ -26,8 +26,8 @@
     "julia.symbolCacheDownload": true,
     "julia.enableTelemetry": false,
     "workbench.iconTheme": "helium-icon-theme",
-    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
     "remote.autoForwardPortsSource": "hybrid",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "debug.onTaskErrors": "debugAnyway",
+    "workbench.colorTheme": "Visual Studio Light - C++",
 }
